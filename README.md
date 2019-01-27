@@ -7,4 +7,8 @@ itt lenne a rajz
 ...
 ...
 
+## Létrehozzuk az új projektet
+  file menü -> new project
+  neve: todo_3
+
 
