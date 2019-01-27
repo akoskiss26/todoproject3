@@ -11,4 +11,6 @@ itt lenne a rajz
   file menü -> new project
   neve: todo_3
 
+  most ezt is elmentjük, mi lesz
+
 
